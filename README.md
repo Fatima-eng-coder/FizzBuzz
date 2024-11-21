@@ -16,5 +16,5 @@ This project implements the classic FizzBuzz problem in Python.
    ```bash
    python fizzbuzz.py
 
-##Author
- Fatima Azaz
+## Author:  
+Fatima Azaz
