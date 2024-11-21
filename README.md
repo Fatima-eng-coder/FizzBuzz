@@ -15,3 +15,6 @@ This project implements the classic FizzBuzz problem in Python.
 2. Run `fizzbuzz.py` using Python:
    ```bash
    python fizzbuzz.py
+
+##Author
+ Fatima Azaz
